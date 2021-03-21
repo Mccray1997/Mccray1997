@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mccray1997
 - 👀 I’m interested in Python, ,Machine learning, and Quantum computing.
-- 🌱 I’m currently learning Python and Java. 
+- 🌱 I’m currently learning Python and Java, and Tensorflow. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by email 
 
