@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mccray1997
 - 👀 I’m interested in Python,Java ,Machine learning and many different things.
-- 🌱 I’m currently learning Python,Java,C++ and C. 
+- 🌱 I’m currently learning Rust and Javascript. With the goal of learning web developement.
 - 💞️ I’m looking to collaborate on nothing for now. I am focusing on my own personal projects.
 - 📫 Email: mccraygilbert52@gmail.com
 
