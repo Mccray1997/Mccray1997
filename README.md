@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mccray1997
 - 👀 I’m interested in Python,Java ,Machine learning and many different things.
-- 🌱 I’m currently learning Rust and Javascript. With the goal of learning web developement.
+- 🌱 I’m currently participating in the Odin project with the goal of learning web development via fullstack javascript.
 - 💞️ I’m looking to collaborate on nothing for now. I am focusing on my own personal projects.
 - 📫 Email: mccraygilbert52@gmail.com
 
